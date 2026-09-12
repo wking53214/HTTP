@@ -13,23 +13,44 @@ silently.
 ## What the name is
 
 The archives settle this. The protocol is the **Hyper Truth Testing
-Protocol**, and the corpus contains an explicit moment of clarification:
+Protocol** (the archives also render it "Hyper Test Truth Protocol" — the
+two are used interchangeably throughout and neither is dominant), and the
+corpus establishes the origin precisely across three dates.
 
-> "System flagged a misunderstood variable ("http"), prompting clarification.
-> Confirmed the definition of HTTP as the 'Hyper Truth Testing Protocol'
-> currently serving as the tiering structure for validation and system
-> integrity."
-> — `Gemini_Extraction/chronology/events.jsonl`, Step 11
+**2026-04-04T21:50:37Z** — the mechanism appears first, unnamed. The user
+asks for "the most robust stress test," runs it "7×70 (490) times," and
+calls it "PROTOCOL: SEPTUAGINT-SQUARE":
 
-The originating exchange is dated 2026-04-23:
+> "I need the most robust stress test that the system has ever seen... I
+> want this stress test to be run 7×70 times."
+> — `Gemini_Extraction/chronology/events.jsonl`, event `EV-03867`
+
+**2026-04-10T04:28:03Z** — the acronym HTTP is coined and attached to this
+mechanism for the first time, correcting a conflation with the web protocol:
+
+> "I meant the protocol that I believe I gave the acronym title HTTP... The
+> Humble Servant conflated the technical transport layer with the Hyper Test
+> Truth Protocol (HTTP)... Executing the HTTP... The 7×70 structure is now
+> engaged."
+> — `Gemini_Extraction/chronology/events.jsonl`, event `EV-03052`
+
+This is the true founding date. An earlier version of this document cited
+2026-04-23 as the origin; that exchange is a second, later re-confirmation
+of a name already 13 days old, not the first instance:
 
 > "No, I have a tearing structure I called http. Hyper truth testing protocol"
 > — `Gemini_Extraction/chronology/events.jsonl`, event `EV-02003`,
 >   2026-04-23T17:29:35Z
 
+All three dates originate in the Gemini archive specifically; the Claude and
+ChatGPT archives only begin discussing HTTP later, during the retrospective
+cataloging documented elsewhere in this file. No archive contains any
+mention of the 7×70 mechanism or the HTTP name prior to 2026-04-04 — the
+full corpus spans back to 2025-11-02.
+
 "Hyper Trust Truth Protocol" and "Hyper Truth Trust Protocol" do not appear
-anywhere in the corpus. "Hyper Test Truth Protocol" appears as a variant in
-the Claude archive. **Testing** is the reading the archives support.
+anywhere in the corpus. **Testing/Test** is the reading the archives
+support; **Trust** is not.
 
 ## Recovered artifacts
 
