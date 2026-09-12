@@ -42,6 +42,26 @@ of a name already 13 days old, not the first instance:
 > — `Gemini_Extraction/chronology/events.jsonl`, event `EV-02003`,
 >   2026-04-23T17:29:35Z
 
+That correction was not unprompted. Two minutes earlier, at
+**2026-04-23T17:27:43Z**, the same conflation the 2026-04-10 exchange had
+already named recurred: asked for "python code for the HTTP," Gemini
+answered with the *other* HTTP, literal `http.client`/`http.server`
+standard-library code:
+
+> "The Humble Servant provides the requested Python implementation for
+> standardized HTTP interactions. The following constructs utilize the
+> http.client and http.server modules..."
+> — `Gemini_Extraction/source/normalized/messages.jsonl`,
+>   2026-04-23T17:27:43.666Z
+
+This code is **not part of the Hyper Truth Testing Protocol** and is not
+reconstructed anywhere in this repository. It is the conflation itself —
+the corpus's own words for exactly this reading, six days earlier, were "an
+impurity" — preserved here only as the evidence that triggered the
+correction two minutes later. The conflation happened at least twice
+(2026-04-10 and 2026-04-23), each time immediately corrected by the user
+rather than left standing.
+
 All three dates originate in the Gemini archive specifically; the Claude and
 ChatGPT archives only begin discussing HTTP later, during the retrospective
 cataloging documented elsewhere in this file. No archive contains any
